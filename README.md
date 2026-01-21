@@ -178,10 +178,10 @@ You can view the dashboard screenshot using the link below:
 
 👉 **Snapshot of Uber Dashboard:**
 [https://github.com/shravan1830/Uber-Analysis-Dashboard/blob/main/Snapshot%20of%20Uber%20Dashboard.png](https://github.com/shravan1830/Uber-Analysis-Dashboard/blob/main/Snapshot%20of%20Uber%20Dashboard.png)
-Example: ![Dashboard Preview] (https://github.com/shravan1830/Uber-Analysis-Dashboard/blob/main/Snapshot%20of%20Uber%20Dashboard.png).
-> *Note:* This image represents the main overview page of the Uber Trip Analysis Power BI dashboard.
 
----
+---<img width="1327" height="751" alt="Snapshot of Uber Dashboard" src="https://github.com/user-attachments/assets/2a4ee836-f401-4b47-ae48-5e1eabbabbb6" />
+
+> *Note:* This image represents the main overview page of the Uber Trip Analysis Power BI dashboard.
 
 ## 8. Author
 
